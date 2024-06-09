@@ -7,8 +7,8 @@ MLHealthAI is a team of passionate AI and Machine Learning engineers specializin
 * Disease Prediction & Prevention
 * Drug Discovery & Development
 * Clinical Trial Optimization
-In addition to ML for Health, we offer comprehensive development services in:
 
+In addition to ML for Health, we offer comprehensive development services in:
 * Web Development (Front-end & Back-end)
 * Android Development
 This repository showcases our work and fosters collaboration within the AI and healthcare communities.
